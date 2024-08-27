@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://linaboxer.github.io/sitemap/sitemap.txt
